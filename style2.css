@@ -1,0 +1,14 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: #99ff99;
+}
+.container-rodapé{
+	background-color:#66ff66;
+	color: #000;
+}
+.sub-container-sobre{
+	background-color: #00cc00;
+	color: #fff;
+}

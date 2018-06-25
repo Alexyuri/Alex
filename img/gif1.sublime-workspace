@@ -1,0 +1,519 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"space-around"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"Direo",
+				"Diretoria"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"bo",
+				"button\tTag"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"b",
+				"border-radius"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fl",
+				"flex-end"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"header",
+				"header-title"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"BO",
+				"border-width"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ck",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tec",
+				"text-decoration"
+			],
+			[
+				"des",
+				"sobre-descricao"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"border-l",
+				"border-left-width"
+			],
+			[
+				"testando",
+				"testandoUm"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"com",
+				"comments"
+			],
+			[
+				"new",
+				"newComment"
+			],
+			[
+				"co",
+				"Comentáros"
+			],
+			[
+				"I",
+				"img"
+			],
+			[
+				"comen",
+				"comentario"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"i",
+				"iframe\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 372.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Install Package Control"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/vainaweb-1/Documentos/Alex/index.html",
+		"/home/vainaweb-1/Documentos/reciclacao/Reciclação/src/components/Pontosdecoleta.vue",
+		"/home/vainaweb-1/Documentos/reciclacao/Reciclação/src/components/Home.vue",
+		"/home/vainaweb-1/Documentos/reciclacao/Reciclação/src/components/Hello.vue",
+		"/home/vainaweb-1/Documentos/reciclacao/Reciclação/src/components/Footer.vue",
+		"/home/vainaweb-1/Documentos/testevue/teste-vue/src/components/Gerencia.vue",
+		"/home/vainaweb-1/Documentos/testevue/teste-vue/src/components/Newvicep.vue",
+		"/home/vainaweb-1/Documentos/teste-vue/src/components/Hello.vue",
+		"/home/vainaweb-1/Documentos/teste-vue/src/router/index.js",
+		"/home/vainaweb-1/Documentos/teste-vue/src/components/ModelVicePresident.vue",
+		"/home/vainaweb-1/Documentos/teste-vue/src/main.js",
+		"/home/vainaweb-1/Documentos/Keelvin/React/react-series/public/index.html",
+		"/home/vainaweb-1/Documentos/reciclacao/Reciclação/src/components/Quiz.vue",
+		"/home/vainaweb-1/Documentos/Keelvin/React/react-series/src/app.js",
+		"/home/vainaweb-1/Documentos/reciclacao/Reciclação/src/router/index.js",
+		"/home/vainaweb-1/abaete/style.css",
+		"/home/vainaweb-1/Documentos/Kelvin/form.html",
+		"/home/vainaweb-1/Documentos/Kelvin/form.css",
+		"/home/vainaweb-1/Documentos/Kelvin/caixa.html",
+		"/home/vainaweb-1/Documentos/Keelvin/form.css",
+		"/home/vainaweb-1/Documentos/Keelvin/index.css",
+		"/home/vainaweb-1/Documentos/untitled.html",
+		"/home/vainaweb-1/Documentos/Keelvin/caixa.html",
+		"/home/vainaweb-1/Documentos/Keelvin/stylee.css",
+		"/home/vainaweb-1/Documentos/Kelvin/indexx.html",
+		"/home/vainaweb-1/Documentos/Kelvin/stylee.css",
+		"/home/vainaweb-1/Documentos/Keelvin/indexx.html",
+		"/home/vainaweb-1/Documentos/Keelvin/index.html",
+		"/home/vainaweb-1/Documentos/Keelvin/Sem título 1.html",
+		"/home/vainaweb-1/abaete/index.html",
+		"/home/vainaweb-1/Documentos/Aulagit/termometro/src/components/Hello.vue",
+		"/home/vainaweb-1/Documentos/Aulagit/termometro/src/components/Header.vue",
+		"/home/vainaweb-1/Documentos/Kelvin/caixa.css",
+		"/home/vainaweb-1/Documentos/Kelvin/index.html",
+		"/home/vainaweb-1/Documentos/Kelvin/aula9.css",
+		"/home/vainaweb-1/Documentos/Kelvin/aula9.html",
+		"/home/vainaweb-1/Documentos/Kelvin/Aulagit/index.html",
+		"/home/vainaweb-1/Documentos/Kelvin/untitled.html",
+		"/home/vainaweb-1/Sem título 1.html",
+		"/home/vainaweb-1/Área de Trabalho/ola.html",
+		"/home/vainaweb-1/Documentos/desafio-evelyn/src/components/HelloWorld.vue",
+		"/home/vainaweb-1/Documentos/Sem título 1.html",
+		"/home/vainaweb-1/Documentos/DesafioEvelyn/Desafio.vue",
+		"/home/vainaweb-1/Documentos/desafio-evelyn/src/App.vue",
+		"/home/vainaweb-1/Documentos/modulo2/Modulo2/src/components/Aula1.vue"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<tr>",
+			"Name-VicePresident",
+			"Nome da Vice Presidência",
+			"Model",
+			"span",
+			"_box",
+			"name",
+			"title_box",
+			"_box",
+			"management-title",
+			"v-else",
+			"AcoesComponent",
+			"20",
+			"15",
+			"container",
+			"     <h1>Você sabia?</h1>\n     <p class=\"sub-titulo\">Responda perguntas sobre:</p>\n      <router-link to=\"meioambiente\">      \n        <p class=\"menu-item\">Meio Ambiente</p>     \n    </router-link> \n   <router-link to=\"saude\">\n          <p class=\"menu-item\">Saúde</p> \n    </router-link>\n  <router-link to=\"consumoconsciente\">\n         <p class=\"menu-item\">Consumo Consciente</p>\n  </router-link> \n    <quiz :quest=\"quest\"></quiz>",
+			"  </section>",
+			"class=\"option\"",
+			"8",
+			"checked-radio",
+			"@charset \"UTF-8\";\n/*----------Variables----------- */\n/*---------Global--------- */\n* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  font-family: \"Open Sans\", sans-serif;\n  padding: 20px;\n  background: #f5f5f5;\n}\n\nul {\n  margin-bottom: 20px;\n}\nul li {\n  list-style: none;\n}\n\nh3 {\n  text-decoration: underline;\n  margin-bottom: 8px;\n}\n\n/*-----For Rounded Radio Buttons---- */\n.rounded-radio li, .checked-radio li {\n  position: relative;\n}\n.rounded-radio li span, .checked-radio li span {\n  position: relative;\n  display: inline-block;\n  width: 20px;\n  height: 20px;\n  background: #336699;\n  left: 0;\n  top: 5px;\n  border-radius: 50%;\n}\n.rounded-radio li span::before, .checked-radio li span::before {\n  position: absolute;\n  left: 50%;\n  top: 50%;\n  content: \"\";\n  width: 8px;\n  height: 8px;\n  background: #f2d514;\n  border-radius: 50%;\n  opacity: 0;\n  -webkit-transform: translate(-50%, -50%);\n  transform: translate(-50%, -50%);\n  -webkit-transition: all 0.3s linear;\n  transition: all 0.3s linear;\n}\n.rounded-radio li label, .checked-radio li label {\n  padding-left: 10px;\n}\n.rounded-radio li input[type=\"radio\"], .checked-radio li input[type=\"radio\"] {\n  position: absolute;\n  z-index: 99;\n  left: 5px;\n  top: 5px;\n  opacity: 0;\n  -webkit-transform: scale(1.5);\n  transform: scale(1.5);\n}\n.rounded-radio li input[type=\"radio\"]:checked + span::before, .checked-radio li input[type=\"radio\"]:checked + span::before {\n  opacity: 1;\n}\n\n/*-----For Checked Radio Buttons---- */\n.checked-radio li span {\n  width: 25px;\n  height: 25px;\n  background: transparent;\n  border: 3px solid #336699;\n}\n.checked-radio li span::before {\n  content: \"\";\n  font-family: \"FontAwesome\";\n  background: none;\n  width: auto;\n  height: auto;\n  color: #336699;\n  font-size: 14px;\n}\n.checked-radio li input[type=\"radio\"] {\n  -webkit-transform: scale(2);\n  transform: scale(2);\n}\n\n/*-----For Switch Radio Buttons---- */\n.switch-radio li {\n  display: inline-block;\n  position: relative;\n}\n.switch-radio li span {\n  position: relative;\n  display: inline-block;\n  width: 50px;\n  height: 30px;\n  background: #cccccc;\n  border-radius: 3px;\n  border: 1px solid #b3b3b3;\n  -webkit-transition: all 0.2s linear;\n  transition: all 0.2s linear;\n}\n.switch-radio li input[type=\"radio\"] {\n  position: absolute;\n  left: 50%;\n  top: 50%;\n  z-index: 99;\n  opacity: 0;\n  -webkit-transform: translate(-50%, -50%) scale(4, 2.5);\n  transform: translate(-50%, -50%) scale(4, 2.5);\n}\n.switch-radio li input[type=\"radio\"]:checked + span {\n  background: #336699;\n}\n.switch-radio li input[type=\"radio\"]:checked + span + label {\n  color: #fff;\n}\n.switch-radio li label {\n  position: absolute;\n  top: 5px;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n  transform: translateX(-50%);\n  font-size: 14px;\n  font-weight: 600;\n  -webkit-transition: all 0.2s linear;\n  transition: all 0.2s linear;\n}\n\n/*-----For Custom Toggle Silder---- */\n.switch {\n  display: inline-block;\n  height: 34px;\n  position: relative;\n  width: 70px;\n}\n.switch .slider-icon-holder {\n  background-color: #ccc;\n  bottom: 0;\n  cursor: pointer;\n  left: 0;\n  position: absolute;\n  right: 0;\n  top: 0;\n  border-radius: 30px;\n  -webkit-transition: 0.4s;\n  -ms-transition: 0.4s;\n  transition: 0.4s;\n}\n.switch .slider-icon-holder:before {\n  background-color: #fff;\n  bottom: 4px;\n  border-radius: 50%;\n  content: \"\";\n  height: 26px;\n  left: 4px;\n  right: inherit;\n  position: absolute;\n  -webkit-transition: 0.4s;\n  -ms-transition: 0.4s;\n  transition: 0.4s;\n  width: 26px;\n}\n.switch input {\n  display: none;\n}\n.switch input:checked + .slider-icon-holder {\n  background: #336699;\n}\n.switch input:checked + .slider-icon-holder:before {\n  -webkit-transform: translateX(35px);\n  -ms-transform: translateX(35px);\n  transform: translateX(35px);\n}\n",
+			" li",
+			"h3",
+			"@media",
+			"</div>",
+			"<div>",
+			"@media",
+			"porta",
+			"rowspan",
+			"rowspan=12",
+			"o",
+			"u",
+			"o",
+			"150px",
+			"header",
+			"/a",
+			"<font color=\"black\">",
+			"<a href=\"#HOME\"><font color=\"black\">",
+			"video ",
+			"<br>",
+			"Adicione ",
+			"adicione ",
+			"Adicione ",
+			"dela",
+			"a",
+			"A",
+			"a",
+			"></",
+			":;",
+			"SuaClass",
+			"recado",
+			"Recado",
+			"recado",
+			"Recado",
+			"recado",
+			"Recado",
+			"recado",
+			";\n",
+			"/assets",
+			"   <",
+			"/assets",
+			"212222",
+			"  ",
+			"Desafio",
+			"Hello",
+			"header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gif1.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
