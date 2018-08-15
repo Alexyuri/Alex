@@ -1,0 +1,41 @@
+.fundo{
+	
+	justify-content: center;
+	align-items: center;
+	position: relative;
+}
+.cabeça{
+	position: relative;
+	height: 40vh;
+	width: 40%;
+	border-radius: 60px;
+	background-color: #ff4;
+}
+.olho-esquerdo{
+	position: relative;
+	height: 40vh;
+	width: 100px;
+	border-radius: 60px;
+	color: #00f;
+}
+.olho-direito{
+	position: relative;
+	height: 17vh;
+	width: 100px;
+	border-radius: 60px;
+	color: #00f;
+}
+.boca{
+	position: relative;
+	height: 17vh;
+	width: 100px;
+	border-radius: 60px;
+	color: #000;
+}	
+.lingua{
+	position: relative;
+	height: 17vh;
+	width: 100px;
+	border-radius: 60px;
+	color: #f00;
+}

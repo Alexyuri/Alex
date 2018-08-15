@@ -1,0 +1,90 @@
+body{
+	padding: 0;
+	margin: 0;
+
+}
+.fundo{
+	
+	justify-content: center;
+	align-items: center;
+	position: relative;
+}
+.cabeça{
+	position: relative;
+    height: 99vh;
+    width: 56vw;
+    border-radius: 50%;
+    background-color: #ff0;
+    left: 113px;
+    top: 70px;
+     animation: flip 3s linear 0s infinite normal ;
+
+}
+@keyframes flip {
+  0%{
+	transform: rotateY(0deg);
+  }
+  50%{
+	transform: rotateY(180deg);
+  }
+  100%{
+	transform: rotateY(0deg);
+  }
+}
+
+.olho-esquerdo{
+	position: relative;
+    height: 26vh;
+    width: 14vw;
+    border-radius: 136px;
+    background-color: #fff;
+    left: 433px;
+    top: 134px;
+}
+.olho-direito{
+    position: relative;
+    height: 26vh;
+    width: 14vw;
+    border-radius: 136px;
+    background-color: #fff;
+    left: 133px;
+    top: -43px;
+}
+.boca{
+	position: relative;
+    height: 3vh;
+    width: 34vw;
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+    background-color: #000;
+    left: 173px;
+    top: 138px;
+}
+.lingua{
+	position: relative;
+    height: 14vh;
+    width: 10vw;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    background-color: #f00;
+    left: 295px;
+    top: 19px;
+}
+.iris-olho-esquerdo{
+	position: relative;
+    height: 9vh;
+    width: 5vw;
+    border-radius: 136px;
+    background-color: #000;
+    left: 60px;
+    top: 60px;
+}
+.iris-olho-direito{
+	position: relative;
+    height: 9vh;
+    width: 5vw;
+    border-radius: 136px;
+    background-color: #000;
+    left: 60px;
+    top: 60px;
+}
